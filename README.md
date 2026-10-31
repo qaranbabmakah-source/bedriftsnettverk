@@ -19,3 +19,6 @@ Jeg testet nettverket med ping, tracert og Simulation Mode. Jeg undersøkte ARP,
 Dokumentasjon
 
 Hele prosjektarbeidet med skjermbilder og forklaringer finnes i Word-filen projekt netverk.docx i dette GitHub-repositoriet.
+
+##GitHub Kanban.
+https://github.com/users/qaranbabmakah-source/projects/1/views/1 
